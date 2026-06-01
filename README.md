@@ -11,14 +11,7 @@ Traditionally, these tasks have relied on deterministic engineering models or st
 
 Machine learning addresses this by learning patterns directly from data rather than relying solely on pre-programmed rules. Instead of hand-coding equations to model every scenario, we allow algorithms to find statistical relationships between inputs and outputs. This is particularly powerful in utilities, where data from smart meters, SCADA systems, asset registries, and customer programs contains rich but underutilized signals about system behavior and risks.
 
-## About
 
-Place the code for this article in this repository.
-The original article export is saved as `article.md`.
-
-## Files
-
-Add your `.ipynb`, `.py`, `.yaml`, `.js`, `.ts`, or other project files here.
 
 ## Disclaimer
 
